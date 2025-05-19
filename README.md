@@ -11,7 +11,7 @@ This project simulates the responsibilities of an actuarial analyst at AIG, focu
 - Performed sensitivity testing showing that a 6% increase in severity would raise the final premium by over **$440K**
 
 ## 📁 Files
-- `Marine_Liability_Pricing_Model.xlsx` — Excel workbook with all calculations, visuals, and pricing model
+- `Actuarial_Task 2 - Claims Data - Barbara Garza.xlsx` — Excel workbook with all calculations, visuals, and pricing model
   - Data manipulation
   - Pivot-based EDA
   - Premium calculations
